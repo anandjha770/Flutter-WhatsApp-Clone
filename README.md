@@ -1,6 +1,6 @@
 # whatsapp_clone
 
-A new Flutter application.
+WhatsApp Clone App made in Flutter.
 
 ## Getting Started
 
